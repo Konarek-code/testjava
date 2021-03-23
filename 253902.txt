@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 cześć
-=======
-cześć
->>>>>>> 73b0348 ( pierwszy folder)
+helo
